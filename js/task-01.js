@@ -1,7 +1,7 @@
 
 
 const listWithClass = document.querySelector('#categories').children;
-console.log( 'pidarskie strochki' , listWithClass.length);
+console.log( 'Number of categories:' , listWithClass.length);
 
 // const titles = document.querySelectorAll('h2');
 // titles.forEach(element => {
